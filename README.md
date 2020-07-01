@@ -1,2 +1,2 @@
-# MILESTONE10
-# React Native Project
+# Milestone10
+## React Native Project
